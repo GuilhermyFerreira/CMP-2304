@@ -1,5 +1,6 @@
 Augusto  
 João Vitor
+Guilhermy Ferreira da Silva.
 
 PARA CONECTAR A CONTA GIT
 
