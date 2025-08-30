@@ -100,7 +100,7 @@ docker start -> inicia o conteiner.
 docker stop -> Para o conteiner.
 docker rm -> remove um conteiner.
 docker rmi -> remove uma imagem.
-
+docker exec -it NomeDoConteiner seguidoDaAplicação-> executa o conteiner.
 
 
 
